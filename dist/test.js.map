@@ -1,0 +1,1 @@
+{"version":3,"sources":["../test.js"],"names":["ping","require"],"mappings":";;AAAA;;;;AAIA,IAAMA,OAAOC,QAAQ,kBAAR,CAAb;;AAEAD","file":"test.js","sourcesContent":["/**\n * Created by rkoch on 1/15/17.\n */\n\nconst ping = require(\"./minecraft-ping\");\n\nping();"]}
